@@ -1,0 +1,212 @@
+[
+    {
+      "id": 1,
+      "href": "",
+      "doc": "Escritura Pública de Compra e Venda do Imóvel",
+      "status": "Concluida, mas falta pegar com Andreza e anexar"
+    },
+    {
+      "id": 2,
+     "href": "https://drive.google.com/file/d/1Iyc0WsSajovbf2MI82tQPcaTQYcR71Lc/view?usp=sharing",
+      "doc": "Cópia autenticada do título aquisitivo de propriedade devidamente registrado no Cartório de Imóveis",
+      "status": "Guia Anexa paga e Escritura sendo registrada"
+    },
+    {
+      "id": 3,
+      "href": "",
+      "doc": "Certidão de propriedade com negativa de ônus e alienações, expedida pelo Cartório de Imóveis competente com menos de 30 dias da apresentação",
+      "status": "Aguardando registro"
+    },
+    {
+      "id": 4,
+       "href": "",
+      "doc": "Certidão Negativa de débito de tributos e taxas do Imóvel expedidas pelos respectivos órgãos Municipais, Estaduais e Federais",
+      "status": "Aguardando registro"
+    },
+    {
+      "id": 5,
+      "href": "",
+      "doc": "Certidão narrativa da prefeitura contendo as especificações do imóvel e de eventual edificação para fins de averbação e abertura de matrícula no registro imobiliário",
+      "status": "aguardando registro"
+    },
+    {
+      "id": 6,
+       "href": "",
+      "doc": "Comprovante de quitação das contas de água, luz e gás do Imóvel, dos últimos 06 (seis) meses ou da data do respectivo desligamento",
+      "status": "Apenas energia"
+    },
+    {
+      "id": 7,
+      "href": "https://drive.google.com/file/d/1J-mUEgH8BrAXco2OjXl41Kmn-rEg6Bxq/view?usp=sharing",
+      "doc": "Declaração condominial de inexistência de débitos",
+      "status": "Concluido-12/Maio"
+    },
+    {
+      "id": 8,
+      "href": "",
+      "doc": "Cópia autenticada do título aquisitivo de propriedade devidamente registrado no Cartório de Imóveis",
+      "status": "Guia paga e Escritura sendo registrada"
+    },
+    {
+      "id": 9,
+      "href": "https://drive.google.com/file/d/12lJJR_7qxRasKNKFrXcNBDmIaOtNGD6k/view?usp=sharing",
+      "doc": "Declaração de inexistência de débitos de IPTU e Taxa de Lixo, expedida pela Prefeitura Municipal",
+      "status": "IPTU Quitado-Certidao anexa"
+    },
+    {
+      "id": 10,
+      "href": "",
+      "doc": "Certidão de casamento",
+      "status": "FAZER - Precisa ser anexado"
+    },
+    {
+      "id": 11,
+      "href": "https://drive.google.com/file/d/1Jy8ZcthZTsFXVOC6y1t26wzYE9aI44NQ/view?usp=sharing",
+      "doc": " Cópia simples da Cédula de Identidade e CPF",
+      "status": "Anexado-Carlos Leao"
+    },
+    {
+      "id": 12,
+      "href": "https://drive.google.com/file/d/1K31LfE78ybiAoqz5pB6r5SQfwOj-AtIc/view?usp=sharing",
+      "doc": "Cópia simples da Cédula de Identidade e CPF",
+      "status": "Anexado-Ada Almeida"
+    },
+    {
+      "id": 13,
+      "href":"https://www.tjpe.jus.br/certidaopje/xhtml/main.xhtml;jsessionid=XYle2rtuCt+lgdI0MgiXtjV5",
+      "doc":"Certidões dos Distribuidores Cíveis, Falência da Comarca do domicílio, bem como do local do Imóvel, caso sejam comarcas diferentes, abrangendo o período de 10 anos",
+      "status":"FAZER"
+    },
+        {
+      "id": 14,
+      "href":"",
+      "doc":"Certidões dos Distribuidores Cíveis e Criminais da Justiça Federal do domicílio, bem como do local do Imóvel, caso sejam comarcas diferentes, abrangendo o período de 10 anos",
+      "status":"Abaixo"
+    },
+        {
+      "id": 15,
+      "href":"https://drive.google.com/file/d/1zzbctsvlrZw0-znY0tJmxAYTscK5W46u/view?usp=sharing",
+      "doc":"Carlos Leao",
+      "status":"Anexo"
+    },
+        {
+      "id": 16,
+      "href":"https://drive.google.com/file/d/1lO5fRWYyUjjpY1Kb341gu8FZ1S9yurQp/view?usp=sharing",
+      "doc":"Ada Almeida",
+      "status":"Anexo"
+    },
+        {
+      "id": 17,
+      "href":"https://drive.google.com/file/d/1COYv1XBLeHcCfYrABlcSzl_2FudFRuls/view?usp=sharing",
+      "doc":"Carlos Leao",
+      "status":"Anexo"
+    },
+        {
+      "id": 18,
+      "href":"https://drive.google.com/file/d/16_v3ToMn0WFp2XckceclutviTJVjcKKy/view?usp=sharing",
+      "doc":"Ada Almeida",
+      "status":"Anexo"
+    },
+        {
+      "id": 19,
+      "href":"",
+      "doc":"Certidões dos Distribuidores dos Executivos Fiscais Municipal e Estadual do domicílio, bem como do local do imóvel, caso sejam comarcas diferentes, abrangendo o período de 10 anos",
+      "status":"Fazer"
+    },
+        {
+      "id": 20,
+      "href":"",
+      "doc":"Certidões dos Distribuidores da Justiça do Trabalho da Comarca do domicílio, bem como do local do Imóvel, caso sejam comarcas diferentes, abrangendo o período de 05 anos",
+      "status":"Abaixo"
+    },
+        {
+      "id": 21,
+      "href":"https://drive.google.com/file/d/1DOIiNix--bncnwopqf1h0KmVRSAiIKzV/view?usp=sharing",
+      "doc":"Carlos Leao",
+      "status":"Anexo"
+    },
+        {
+      "id": 22,
+      "href":"https://drive.google.com/file/d/1aiXReydMh43PhxQV4jjzvKPXjzeQQrvH/view?usp=sharing",
+      "doc":"Ada Almeida",
+      "status":"Anexo"
+    },
+        {
+      "id": 23,
+      "href":"",
+      "doc":"Certidões dos Distribuidores de Protesto do domicílio, bem como do local do Imóvel, caso sejam comarcas diferentes, abrangendo o período de 05 anos",
+      "status":"Fazer"
+    },
+        {
+      "id": 24,
+      "href":"",
+      "doc":"Certidão negativa de Tutelas, Curatelas e Família da Comarca, onde reside o proprietário, abrangendo o período de 10 anos",
+      "status":"Fazer"
+    },
+        {
+      "id": 25,
+      "href":"",
+      "doc":"Certidões Negativas dos Cartórios de Protesto do domicílio, bem como do local do Imóvel, caso sejam comarcas diferentes, abrangendo o período de 05 anos",
+      "status":"Fazer"
+    },
+        {
+      "id": 26,
+      "href":"",
+      "doc":"Certidão Negativa (ou positiva com efeitos de negativa) de Débitos previdenciários administrados pela Receita Federal do Brasil (antiga CND – INSS)",
+      "status":"Fazer"
+    },
+        {
+      "id": 27,
+      "href":"",
+      "doc":"Carlos e Ada",
+      "status":""
+    },
+        {
+      "id": 28,
+      "href":"",
+      "doc":"Certidão negativa de débitos da prefeitura do domicílio e do local do Imóvel, caso sejam comarcas diferentes",
+      "status":"Fazendo-Falta do Apto"
+    },
+        {
+      "id": 29,
+      "href":"https://drive.google.com/file/d/12lJJR_7qxRasKNKFrXcNBDmIaOtNGD6k/view?usp=sharing",
+      "doc":"Flat-Serrambi",
+      "status":"Anexa"
+    },
+        {
+      "id": 30,
+      "href":"",
+      "doc":"Certidão negativa de débitos da Secretaria da Fazenda Estadual de Pernambuco",
+      "status":"Abaixo"
+    },
+        {
+      "id": 31,
+      "href":"https://drive.google.com/file/d/1ibF3UvTpnou2tXAkke3k16gRyNVwEQWw/view?usp=sharing",
+      "doc":"Carlos Leao",
+      "status":"Anexa"
+    },
+        {
+      "id": 32,
+      "href":"https://drive.google.com/file/d/1Xr_unaR888vfgPgUEhcT8--kMBDhAqJe/view?usp=sharing",
+      "doc":"Ada Almeida",
+      "status":"Anexa"
+    },
+        {
+      "id": 33,
+      "href":"",
+      "doc":"Emissão de Certidão de Regularidade Fiscal",
+      "status":"Abaixo"
+    },
+        {
+      "id": 34,
+      "href":"https://drive.google.com/file/d/1yXG2lWTlBOiBN-xaQ84v25Gl9ofSy33H/view?usp=sharing",
+      "doc":"Carlos Leao",
+      "status":"Anexo"
+    },
+        {
+      "id": 35,
+      "href":"https://drive.google.com/file/d/15HoPdK22T8m2sBIF85Zte7UbmpYaS0u-/view?usp=sharing",
+      "doc":"Ada Almeida",
+      "status":"Anexa"
+    }
+]
