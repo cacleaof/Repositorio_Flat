@@ -7,9 +7,9 @@
     },
     {
       "id": 2,
-     "href": "https://drive.google.com/file/d/1Iyc0WsSajovbf2MI82tQPcaTQYcR71Lc/view?usp=sharing",
+     "href": "https://drive.google.com/file/d/1oAdb4SHMikuWqN5-toxW_YPb9OFrtdrU/view?usp=sharing",
       "doc": "Cópia autenticada do título aquisitivo de propriedade devidamente registrado no Cartório de Imóveis",
-      "status": "Guia Anexa paga e Escritura sendo registrada"
+      "status": "Anexo"
     },
     {
       "id": 3,
@@ -42,12 +42,6 @@
       "status": "Concluido-12/Maio"
     },
     {
-      "id": 8,
-      "href": "",
-      "doc": "Cópia autenticada do título aquisitivo de propriedade devidamente registrado no Cartório de Imóveis",
-      "status": "Guia paga e Escritura sendo registrada"
-    },
-    {
       "id": 9,
       "href": "https://drive.google.com/file/d/12lJJR_7qxRasKNKFrXcNBDmIaOtNGD6k/view?usp=sharing",
       "doc": "Declaração de inexistência de débitos de IPTU e Taxa de Lixo, expedida pela Prefeitura Municipal",
@@ -73,7 +67,7 @@
     },
     {
       "id": 13,
-      "href":"https://www.tjpe.jus.br/certidaopje/xhtml/main.xhtml;jsessionid=XYle2rtuCt+lgdI0MgiXtjV5",
+      "href":"",
       "doc":"Certidões dos Distribuidores Cíveis, Falência da Comarca do domicílio, bem como do local do Imóvel, caso sejam comarcas diferentes, abrangendo o período de 10 anos",
       "status":"FAZER"
     },
