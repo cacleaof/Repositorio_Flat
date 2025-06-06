@@ -15,6 +15,5 @@ interface Docs {
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'repositorio';
   docs: Docs[] = Doc_json;
 }

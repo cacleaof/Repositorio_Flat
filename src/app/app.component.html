@@ -1,27 +1,40 @@
- <h1>Documentos Flat Serrambi</h1>
-    <h2>Documentos do Imovel</h2>
-    <table class="table table-striped">
-      <thead>
-        <tr>
-            <th scope="col">ID</th>
-            <th scope="col">TIPO DE DOCUMENTO/LINK PARA ABRIR ARQUIVO</th>
-            <th scope="col">Status</th>
-        </tr>
-      </thead>
-      <tbody *ngFor="let doc of docs" >
-        <tr>
-          <td>{{doc.id}}</td>
-          <td *ngIf="doc.href; else showtexto"><a href="{{doc.href}}" target="_blank">{{doc.doc}}</a>
-          </td>
-          <ng-template #showtexto>
-                <td><p>{{doc.doc}}</p>
-          </td>
-          </ng-template>
-          <td>{{doc.status}}</td>
-        </tr>
-        <h2 *ngIf="doc.id === 9">Documentos do Alienante</h2>
-      </tbody>
-    </table>
+<div style="padding: 20px;">
+  <h1>Repositório de Documentos</h1>
+  <hr>
+  <app-doc-form></app-doc-form>
+  <hr>
+  <h2>Lista de Documentos</h2>
+  <ul>
+    <li *ngFor="let doc of docs">
+      <strong>{{ doc.doc }}</strong>: {{ doc.status }}
+    </li>
+  </ul>
+</div>
+
+<h1>Documentos Flat Serrambi</h1>
+<h2>Documentos do Imovel</h2>
+<table class="table table-striped">
+  <thead>
+    <tr>
+        <th scope="col">ID</th>
+        <th scope="col">TIPO DE DOCUMENTO/LINK PARA ABRIR ARQUIVO</th>
+        <th scope="col">Status</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let doc of docs" >
+    <tr>
+      <td>{{doc.id}}</td>
+      <td *ngIf="doc.href; else showtexto"><a href="{{doc.href}}" target="_blank">{{doc.doc}}</a>
+      </td>
+      <ng-template #showtexto>
+            <td><p>{{doc.doc}}</p>
+      </td>
+      </ng-template>
+      <td>{{doc.status}}</td>
+    </tr>
+    <h2 *ngIf="doc.id === 9">Documentos do Alienante</h2>
+  </tbody>
+</table>
 
 
 

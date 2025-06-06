@@ -1,0 +1,35 @@
+<h2>Adicionar Novo Documento</h2>
+<form (ngSubmit)="onSubmit()" #docForm="ngForm">
+  <div class="form-group">
+    <label for="doc">Documento:</label>
+    <input type="text" id="doc" class="form-control"
+           required
+           [(ngModel)]="newDoc.doc" name="doc"
+           #doc="ngModel">
+    <div [hidden]="doc.valid || doc.pristine"
+         class="alert alert-danger">
+      O nome do documento é obrigatório.
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="status">Status:</label>
+    <input type="text" id="status" class="form-control"
+           required
+           [(ngModel)]="newDoc.status" name="status"
+           #status="ngModel">
+    <div [hidden]="status.valid || status.pristine"
+         class="alert alert-danger">
+      O status é obrigatório.
+    </div>
+  </div>
+
+  <button type="submit" class="btn btn-success" [disabled]="!docForm.form.valid">Adicionar</button>
+</form>
+
+<div *ngIf="message" class="alert alert-success mt-3">
+  {{ message }}
+</div>
+<div *ngIf="error" class="alert alert-danger mt-3">
+  {{ error }}
+</div>
