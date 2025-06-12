@@ -14,12 +14,19 @@
       <td *ngIf="doc.href; else showtexto"><a href="{{doc.href}}" target="_blank">{{doc.doc}}</a>
       </td>
       <ng-template #showtexto>
-            <td><p>{{doc.doc}}</p>
-      </td>
+            <td *ngIf="doc.status=='Abaixo'; else showred"><p style="font-weight: bold;">{{doc.doc}}</p>
+            </td>
       </ng-template>
+              <ng-template #showred>
+                <p style="color: crimson;">{{doc.doc}}</p>
+
+              </ng-template>
+
       <td>{{doc.status}}</td>
     </tr>
-    <h2 *ngIf="doc.id === 9">Documentos do Alienante</h2>
+
+    <tr *ngIf="doc.id === 90">
+      <td>----</td><td><h2>Documentos_do_Alienante</h2></td><td><p>----</p></td></tr>
   </tbody>
 </table>
 
